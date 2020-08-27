@@ -4,7 +4,7 @@ metadata:
   name: 'test-jenkins'
   description: 'a test jenkins plugin'
   annotations:
-    backstage.io/jenkins-github-folder: 'job/demo-name'
+    backstage.io/jenkins-github-folder: 'folder-name/job-name'
 spec:
   type: service
   lifecycle: experimental
